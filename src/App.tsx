@@ -7,6 +7,7 @@ export const App = () => {
    <div>
      <Button/>
      <Input/>
+     1
    </div>
   );
 }
