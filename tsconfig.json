@@ -30,5 +30,6 @@
     "components": ["./src/components"],
     "pages": ["./src/pages"],
     "redux": ["./src/redux"],
+    "constants": ["./constants"],
   }
 }
